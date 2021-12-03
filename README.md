@@ -9,7 +9,7 @@
 " Symmetry_Detector-Applied.ipynb : Initial Symmetry Detector. An example of application of the first general symmetry detector developed in Symmetry_Detector.ipynb. This symmetry detector is programmed to find, in general, the dominating symmetry in a database, without specifying exactly the features. One can find out those features by inspecting the results, but it is not very efficient. "
 
 
-" Symmetry_Detector-Applied-2.ipynb : Improved Symmetry Detector. This detector finds the dominating symmetries and is able to tell which variables are responsible for those symmetries. In this notebook there are several examples of application "
+" Symmetry_Detector-Applied-2.ipynb : Improved Symmetry Detector. This detector finds the dominating symmetries and is able to tell which variables are responsible for those symmetries. In this notebook there are several examples of application. One of those is the physical process e+e- -> Z - e+e-, described in summary.pdf. The data of the physical events can be found in CSV_Events.zip, with different values of the coulplings."
 
 
-"You can also find here the pre-trained models used for these codes. There is a model with 5 symmetries and a model with just reflection and none symmetry "
+"You can also find here the pre-trained models used for these codes. There is a model with 5 symmetries and a model with just reflection and none symmetry. "
